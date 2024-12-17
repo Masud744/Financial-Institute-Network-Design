@@ -40,3 +40,6 @@ This project focuses on designing and implementing a secure, scalable, and effic
 1. Download Cisco Packet Tracer.
 2. Clone or download this repository.
 3. Open the `.pkt` file in Cisco Packet Tracer to explore the network design.
+
+ ## Access Project Files  
+[View project files here](Google_Drive_Link.md)
